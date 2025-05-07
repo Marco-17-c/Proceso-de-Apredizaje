@@ -1,0 +1,237 @@
+body{
+    background-image:url(Imagenes/fondo.jpg) ;
+}
+#logo1{
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    border-radius: 200px ;
+}
+#titulo{
+    padding: 20px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 20px;
+    box-shadow: 0px 2px 0px black;  
+    }
+#titulotexto{
+    padding: 20px;
+    width: 210px;
+    height: 1px;
+    background-color: white;
+    text-shadow: 1px 15px 20px black;
+    display: flex;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #00b4ec;
+    align-items: center; 
+    justify-content: space-between; 
+    margin-left: auto;
+}
+#Titulo1{
+    margin: 130px;
+    font-size: 30px;
+    padding: 10px;
+}
+#Titulo2{
+    margin: 130px;
+    font-size: 30px;
+    padding: 10px;
+}
+#Resumen{
+    text-align: center;
+    background: white;
+    padding: 15px;
+    font-style: italic;
+}
+#Bloque1{
+    margin: 130px;
+    border: 5px solid #000000;
+    padding: 30px;
+    flex-wrap: wrap;
+    font-size: 20px;
+    align-items: stretch;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    
+}
+#Bloque2{
+    margin: 130px;
+    border: 5px solid #000000;
+    padding: 30px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    
+}
+#TITULOGENERAL{
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000000;
+    background-color: rgb(255, 109, 24);
+}
+#ICONHTML{
+    fill: white;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    margin: 5px;
+}
+#TITULOCSSGENERAL{
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000000;
+    background-color: rgb(25, 127, 185);
+}
+#ICONCSS{
+    fill: white;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    margin: 5px;
+}
+#TITLEHTML{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#TITLECSS{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#TITLEJAVA{
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+#TITULOJAVAGENERAL{
+    padding: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #000000;
+    background-color: rgb(104, 180, 69);
+}
+#ICONJAVA{
+    fill: white;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    margin: 5px;  
+}
+#html{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    background-color: #f2edec;
+}
+#css{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    height: 150;
+    background-color: #f2edec;   
+}
+#java{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    background-color: #f2edec;
+}
+#HTML{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    background-color: #f2edec;
+}
+#TituloHTML-h2{
+    border: 2px solid #000000;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(255, 109, 24);
+}
+#TituloCSS-h2{
+    border: 2px solid #000000;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(25, 127, 185);
+}
+#TituloJAVA-h2{
+    border: 2px solid #000000;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(104, 180, 69);
+}
+#HTMLIMG{
+    align-items: center;
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    margin: auto; 
+}
+#CSS{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    background-color: #f2edec;
+}
+#CSSIMG{
+    align-items: center;
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    margin: auto; 
+}
+#JAVA{
+    border: 2px solid #000000;
+    padding: 10px;
+    width: 450px;
+    background-color: #f2edec;
+}
+#JAVAIMG{
+    align-items: center;
+    display: flex;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    margin: auto;       
+}
+#IMGCASA2{
+    padding: 10px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: auto;
+    height: auto;     
+    margin: auto;
+    
+}
+#CASA2{
+    padding: 200px;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin: 20px;
+    box-shadow: 0px 2px 0px black;  
+}
